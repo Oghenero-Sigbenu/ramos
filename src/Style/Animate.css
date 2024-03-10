@@ -1,0 +1,27 @@
+.fade {
+    animation: fade-in 6s;
+  }
+  
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 100;
+    }
+  }
+
+  .slide-in {
+    animation: slide-in 5s;
+  }
+
+  @keyframes slide-in {
+    from {
+      top: 40px;
+      opacity: 0;
+    }
+    to {
+      top: 0px;
+      opacity: 100;
+    }
+  }
