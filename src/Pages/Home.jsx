@@ -1,4 +1,5 @@
 import Explore from "../Components/Explore";
+import GetStarted from "../Components/GetStarted";
 import Hero from "../Components/Hero";
 import Layout from "../Components/Layouts";
 import Rate from "../Components/Rate";
@@ -13,6 +14,7 @@ function Home() {
       <Explore />
       <Revenue />
       <Rate />
+      <GetStarted />
     </Layout>
   );
 }

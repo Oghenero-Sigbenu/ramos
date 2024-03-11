@@ -2,7 +2,7 @@ import { GiGreenhouse } from "react-icons/gi";
 
 function Rate() {
   return (
-    <div className="bg-white px-[.5rem] my-[5rem]  rounded-[10px] py-[1rem] justify-between max-w-[95%]  lg:max-w-[95%] mx-auto ">
+    <div className="bg-white px-[.5rem] my-[4rem]  rounded-[10px] py-[1rem] justify-between max-w-[95%]  lg:max-w-[95%] mx-auto ">
       <h4 className=" w-full slide-in font-light text-[8rem] mb-[4rem] leading-[8rem]">
         We give you full <br /> <span className="text-offWhite"> control</span>{" "}
         over your data
